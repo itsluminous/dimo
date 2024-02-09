@@ -28,7 +28,7 @@
     "jquery": "^3.5.0",
     "ngx-toastr": "^11.3.2",
     "rxjs": "~6.4.0",
-    "simple-google-image-search": "^1.0.2",
+    "simple-google-image-search": "^1.2.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
